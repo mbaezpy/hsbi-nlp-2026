@@ -1,4 +1,4 @@
-# HSBI — Natural Language Processing (NLP) — 2025
+# HSBI — Natural Language Processing (NLP) — 2026
 
 Course repository for **HSBI NLP 2026**.  
 Contains lab notebooks, helper scripts and utilities used during the course.
