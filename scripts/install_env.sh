@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # -------------------------------------------------------
-# NLP WS25 Course Environment Setup (with GPU Support)
+# NLP SoSe26 Course Environment Setup (with GPU Support)
 # -------------------------------------------------------
 
 # Optional: Install Miniconda3 (if not already available)
